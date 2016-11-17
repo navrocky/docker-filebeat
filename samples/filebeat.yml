@@ -1,0 +1,7 @@
+filebeat.prospectors:
+- input_type: log
+  paths:
+    - /filebeat.yml
+
+output.logstash:
+  hosts: ["localhost:5043"]

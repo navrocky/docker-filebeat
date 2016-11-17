@@ -1,0 +1,1 @@
+Filebeat Docker small image based on Alpine Linux
